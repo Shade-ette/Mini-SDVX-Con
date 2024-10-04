@@ -1,7 +1,7 @@
 # MINI-SDVX
 A mini controller for games such as Sound Voltex, USC, KShoot, osu 4k, etc.  Based off of mon's Pocket Voltex!
 
-# DISCLAIMER
+# DISCLAIMER!!
 not all the code written here is mine, I am responsible for the INO file required to flash the pro micro. The assisting files and code is provided by Arduino themselves.
 
 ## Thanks To
